@@ -2,6 +2,8 @@
 name = "tokio-serde-json-mirror"
 version = "0.1.0"
 authors = ["Carl Lerche <me@carllerche.com>"]
+description = "Mirror of https://github.com/carllerche/tokio-serde-json which is for some reason not updated on crates.io"
+license = "MIT / Apache-2.0"
 
 [dependencies]
 futures = "0.1"
